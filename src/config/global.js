@@ -213,8 +213,7 @@ export default {
       referencia:
         'Pertuz, C. A. (2021). Análisis ambiental de las fuentes generadoras de pollinaza, porquinaza y bovinaza objeto de control y seguimiento ambiental por parte de la Corporación Autónoma Regional del Atlántico -CRA-. (Tesis de grado). Universidad de la Costa, Barranquilla, Colombia.',
       tipo: 'Tesis',
-      link:
-        'https://hdl.handle.net/11323/8393',
+      link: 'https://hdl.handle.net/11323/8393',
     },
     {
       tema: '1.6. Buenas prácticas pecuarias',
